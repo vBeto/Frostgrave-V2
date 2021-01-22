@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Frostgrave V2" indexUrl="https://github.com/vBeto/Frostgrave-V2" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Frostgrave.gstz" dataType="gamesystem" dataId="a9da-82ef-3b8b-12ce" dataName="Frostgrave" dataBattleScribeVersion="2.03" dataRevision="8"/>
+    <dataIndexEntry filePath="Frostgrave.catz" dataType="catalogue" dataId="a5ff-2cff-9687-0ec3" dataName="Frostgrave" dataBattleScribeVersion="2.03" dataRevision="12"/>
+  </dataIndexEntries>
+</dataIndex>
